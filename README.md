@@ -1,5 +1,6 @@
 # log4z
 从log4z那升级过来的。原作者YaweiZhang <yawei.zhang@foxmail.com>
+原地址https://github.com/zsummer/log4z
 取之于网，用之于网，
 
 ## 1. 缘由
